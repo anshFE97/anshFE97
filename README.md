@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a frontend developer.<br>I am learning NEXTJS.
+Frontend/Fullstack Web developer
 
 
 # 💻 Tech Stack:
